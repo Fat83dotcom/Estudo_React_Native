@@ -47,11 +47,11 @@ const styles = StyleSheet.create({
     marginVertical: 8
   },
   header: {
-    fontSize: 32,
+    fontSize: 30,
     backgroundColor: '#fff'
   },
   titulo: {
-    fontSize: 24
+    fontSize: 20,
   }
 });
 
